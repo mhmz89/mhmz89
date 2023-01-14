@@ -1,8 +1,6 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/drshahizan/drshahizan/master/img/wave.gif" width="30">
 
-<img src="img_girl.jpg" alt="Girl in a jacket">
-
 I am  __Mohammad_Hafizzuddin__, and I work as an IT Assistant Officer at [Universiti Teknologi MARA](https://www.uitm.edu.my).
 
 ### 📚 Courses
@@ -31,9 +29,9 @@ I am  __Mohammad_Hafizzuddin__, and I work as an IT Assistant Officer at [Univer
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="left">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mhmz89&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mhmz89&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555&Pat_1">
     <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmz89&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmz89&hide=html,&hide_border=true&title_color=5391FE&text_color=555&PAT_1"
 </p>
   
   ![Follower Badge](https://img.shields.io/github/followers/mhmz89)
