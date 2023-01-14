@@ -20,8 +20,8 @@ I am  __Mohammad_Hafizzuddin__, and I work as an IT Assistant Officer at [Univer
 <p align="left">
     <a href="https://github.com/mhmz89" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@mhmz89-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/mhmz89" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-mhmz89-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mhmz89/"></a>
-    <a href="mailto:hafiz5019@uitm.edu.my" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-hafiz5019@uitm.edu.my-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hafiz5019@uitm.edu.my"></a>
-    <a href="https://www.researchgate.net/profile/Mohd-Othman-28" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
+    <a href="mailto:mohammad.hafizzuddin@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-mohammad.hafizzuddin-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohammad.hafizzuddin"></a>
+    <a href="https://www.researchgate.net/profile/mhmz89" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
     <a href="https://orcid.org/0000-0003-4261-1873" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
 </p>
   
