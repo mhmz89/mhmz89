@@ -1,6 +1,8 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/drshahizan/drshahizan/master/img/wave.gif" width="30">
 
+<img src="img_girl.jpg" alt="Girl in a jacket">
+
 I am  __Mohammad_Hafizzuddin__, and I work as an IT Assistant Officer at [Universiti Teknologi MARA](https://www.uitm.edu.my).
 
 ### 📚 Courses
