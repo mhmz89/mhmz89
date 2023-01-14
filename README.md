@@ -1,7 +1,7 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/drshahizan/drshahizan/master/img/wave.gif" width="30">
 
-I am  __Mohammad_Hafizzuddin__, and I work as an IT Assitant Officer at [Universiti Teknologi MARA](https://www.uitm.edu.my).
+I am  __Mohammad_Hafizzuddin__, and I work as an IT Assistant Officer at [Universiti Teknologi MARA](https://www.uitm.edu.my).
 
 ### 📚 Courses
 - High Performance Data Processing 
