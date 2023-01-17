@@ -3,19 +3,6 @@
 
 I am  __Mohammad_Hafizzuddin__, and I work as an IT Assistant Officer at [Universiti Teknologi MARA](https://www.uitm.edu.my).
 
-### 📚 Courses
-- High Performance Data Processing 
-  -   [Python for beginners](https://github.com/drshahizan/python-tutorial)
-  -   [Exploratory data analysis](https://github.com/drshahizan/Python_EDA)
-  -   [Big data processing](https://github.com/drshahizan/Python-big-data)
-- [Programming Technique III: ASP.NET](https://github.com/drshahizan/learn-aspnet)
-- [Web Programming - PHP](https://github.com/drshahizan/learn-php)
-
-### 👨‍💻 Research Colloquium
-- [Research Colloquium Series 1: Best practices' for using the cloud in research](https://github.com/drshahizan/learn-github)
-- [Learn Github](https://github.com/drshahizan/learn-github)
-- [Research material](https://github.com/drshahizan/research-material)
-
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/mhmz89" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@mhmz89-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
@@ -29,7 +16,7 @@ I am  __Mohammad_Hafizzuddin__, and I work as an IT Assistant Officer at [Univer
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="left">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mhmz89&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555&Pat_1">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mhmz89&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555&PAT_1">
     <br>
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmz89&hide=html,&hide_border=true&title_color=5391FE&text_color=555&PAT_1"
 </p>
