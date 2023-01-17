@@ -15,7 +15,6 @@ I am  __Mohammad_Hafizzuddin__, and I work as an IT Assistant Officer at [Univer
 <p align="left">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mhmz89&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555&PAT_1">
     <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmz89&hide=html,&hide_border=true&title_color=5391FE&text_color=555&PAT_1">
 </p>
   
   ![Follower Badge](https://img.shields.io/github/followers/mhmz89)
